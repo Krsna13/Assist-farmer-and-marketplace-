@@ -1,0 +1,18 @@
+{
+  "name": "smart-agri-management",
+  "version": "1.0.0",
+  "description": "Smart Agriculture & Farm Management System",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend --legacy-peer-deps",
+    "backend": "npm start --prefix backend",
+    "frontend": "npm start --prefix frontend",
+    "clean-ports": "npx -y kill-port 3000 5000",
+    "predev": "npm run clean-ports",
+    "dev": "concurrently --kill-others-on-fail -n \"BACKEND,FRONTEND\" -c \"cyan,magenta\" \"npm run backend\" \"npm run frontend\"",
+    "start": "npm run dev",
+    "seed:marketplace-demo": "node backend/scripts/seedMarketplaceDemo.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.5"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "manifestVersion": "1.0",
+  "datasetTitle": "Smart Agriculture Marketplace — Demonstration Inventory Images",
+  "generatedDate": "2026-10-24",
+  "license": "Creative Commons CC0 1.0 Universal / Project Synthetic Demonstration Asset",
+  "description": "High-resolution agricultural inventory photographs generated synthetically for FYP Smart Agriculture Management demonstration and educational testing. No real farmer or commercial entity is depicted.",
+  "images": [
+    {
+      "filename": "onion_harvest.jpg",
+      "crop": "Red Onions",
+      "category": "crop",
+      "locality": "Lasalgaon & Niphad, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "tomatoes_farm.jpg",
+      "crop": "Ripe Tomatoes",
+      "category": "produce",
+      "locality": "Pimpalgaon Baswant & Girnare, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "wheat_grains.jpg",
+      "crop": "Golden Wheat Grains",
+      "category": "crop",
+      "locality": "Yeola & Bhagur, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "grapes_vineyard.jpg",
+      "crop": "Table & Wine Grapes",
+      "category": "produce",
+      "locality": "Dindori & Chandwad, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "pomegranates_farm.jpg",
+      "crop": "Bhagwa Pomegranates",
+      "category": "produce",
+      "locality": "Sinnar & Satana, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "rice_paddy.jpg",
+      "crop": "Indrayani & Heritage Paddy",
+      "category": "crop",
+      "locality": "Igatpuri & Trimbakeshwar, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "maize_corn.jpg",
+      "crop": "Yellow Maize / Corn",
+      "category": "crop",
+      "locality": "Yeola & Nandgaon, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "potatoes_farm.jpg",
+      "crop": "Dutch Table Potatoes",
+      "category": "crop",
+      "locality": "Deola, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "bananas_farm.jpg",
+      "crop": "Grand Nain Bananas",
+      "category": "produce",
+      "locality": "Ozar, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "green_chillies.jpg",
+      "crop": "Green Spicy Chillies",
+      "category": "produce",
+      "locality": "Kalwan & Girnare, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "soybeans_farm.jpg",
+      "crop": "Soybean Harvest",
+      "category": "crop",
+      "locality": "Malegaon & Sinnar, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "leafy_vegetables.jpg",
+      "crop": "Palak Spinach & Leafy Greens",
+      "category": "produce",
+      "locality": "Vani & Makhmalabad, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    },
+    {
+      "filename": "pulses_dal.jpg",
+      "crop": "Chickpeas & Lentils Pulses",
+      "category": "crop",
+      "locality": "Sinnar MIDC Agro & Yeola, Nashik",
+      "provenance": "Synthetically generated agricultural photograph via DeepMind Generative Image Engine",
+      "license": "CC0-Demonstration"
+    }
+  ]
+}

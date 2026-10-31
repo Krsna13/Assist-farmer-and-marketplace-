@@ -1,0 +1,28 @@
+/* ===== About Section ===== */
+.about-section {
+  background: linear-gradient(180deg, #f0fdf4 0%, #e8f9ee 100%);
+  padding: 60px 24px;
+  border-top: 1px solid #bbf7d0;
+}
+
+/* ===== Footer ===== */
+.footer {
+  background-color: #064e3b; /* Dark emerald */
+  color: white;
+  padding: 35px 20px;
+  text-align: center;
+}
+
+.footer h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #a7f3d0;
+}
+
+.footer p {
+  margin: 6px 0;
+  font-size: 14px;
+  color: #e2e8f0;
+}
+  

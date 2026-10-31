@@ -1,0 +1,14 @@
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+backend/data/
+frontend/build/
+.env
+backend/.env
+frontend/.env
+*.log
+backend/uploads/*
+!backend/uploads/**/.gitkeep
+.DS_Store
+Thumbs.db
+prompt*.txt
