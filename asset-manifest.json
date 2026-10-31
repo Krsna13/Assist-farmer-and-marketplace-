@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Assist-farmer-and-marketplace-/static/css/main.6f9cae3d.css",
+    "main.js": "/Assist-farmer-and-marketplace-/static/js/main.6549c2b7.js",
+    "static/js/239.2ae8c773.chunk.js": "/Assist-farmer-and-marketplace-/static/js/239.2ae8c773.chunk.js",
+    "static/js/213.66a244f1.chunk.js": "/Assist-farmer-and-marketplace-/static/js/213.66a244f1.chunk.js",
+    "static/js/455.7cc98b9f.chunk.js": "/Assist-farmer-and-marketplace-/static/js/455.7cc98b9f.chunk.js",
+    "static/js/488.4fcb2d66.chunk.js": "/Assist-farmer-and-marketplace-/static/js/488.4fcb2d66.chunk.js",
+    "static/media/crop-page-background-piture-02.jpg": "/Assist-farmer-and-marketplace-/static/media/crop-page-background-piture-02.a5eaed85b21c84a82f51.jpg",
+    "static/media/service2.jpg": "/Assist-farmer-and-marketplace-/static/media/service2.4545f50ea19733bcee5b.jpg",
+    "static/media/service4.jpg": "/Assist-farmer-and-marketplace-/static/media/service4.95895f64a872b03f8e2a.jpg",
+    "static/media/resources-page-background-piture-01.jpg": "/Assist-farmer-and-marketplace-/static/media/resources-page-background-piture-01.c3861c1b1231c19501f1.jpg",
+    "static/media/livetsock-page-background-piture-01.jpg": "/Assist-farmer-and-marketplace-/static/media/livetsock-page-background-piture-01.f71e6447fbc445ea3e19.jpg",
+    "static/media/FMS-Profile-background-picture.jpg": "/Assist-farmer-and-marketplace-/static/media/FMS-Profile-background-picture.77854527055b3d8b32d6.jpg",
+    "static/media/service1.jpg": "/Assist-farmer-and-marketplace-/static/media/service1.13f6f47932ea6b2a61be.jpg",
+    "static/media/main_page.jpeg": "/Assist-farmer-and-marketplace-/static/media/main_page.a3f6177b0e6352aa7c70.jpeg",
+    "static/media/service3.jpg": "/Assist-farmer-and-marketplace-/static/media/service3.1349eda6e4afcc47d5b1.jpg",
+    "static/media/vision.jpg": "/Assist-farmer-and-marketplace-/static/media/vision.3146103321400c3dc092.jpg",
+    "index.html": "/Assist-farmer-and-marketplace-/index.html",
+    "main.6f9cae3d.css.map": "/Assist-farmer-and-marketplace-/static/css/main.6f9cae3d.css.map",
+    "main.6549c2b7.js.map": "/Assist-farmer-and-marketplace-/static/js/main.6549c2b7.js.map",
+    "239.2ae8c773.chunk.js.map": "/Assist-farmer-and-marketplace-/static/js/239.2ae8c773.chunk.js.map",
+    "213.66a244f1.chunk.js.map": "/Assist-farmer-and-marketplace-/static/js/213.66a244f1.chunk.js.map",
+    "455.7cc98b9f.chunk.js.map": "/Assist-farmer-and-marketplace-/static/js/455.7cc98b9f.chunk.js.map",
+    "488.4fcb2d66.chunk.js.map": "/Assist-farmer-and-marketplace-/static/js/488.4fcb2d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f9cae3d.css",
+    "static/js/main.6549c2b7.js"
+  ]
+}
