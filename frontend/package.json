@@ -2,6 +2,7 @@
   "name": "smart-agri-frontend",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://krsna13.github.io/Assist-farmer-and-marketplace-",
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
     "axios": "^1.7.9",
